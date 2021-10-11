@@ -1,0 +1,6 @@
+Position:  2, Status: Q1, Tape: #0#
+                                 ^
+Position:  3, Status: Q1, Tape: #0#
+                                  ^
+WHAT!?
+NO
